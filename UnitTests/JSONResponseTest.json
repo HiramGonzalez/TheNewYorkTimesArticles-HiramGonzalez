@@ -1,0 +1,68 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2024 The New York Times Company.  All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/78bba9cb-026d-5bee-a5c5-1dc068310c2a",
+            "url": "https://www.nytimes.com/2024/09/24/well/green-tea-weight-loss-ozempic.html",
+            "id": 100000009686770,
+            "asset_id": 100000009686770,
+            "source": "New York Times",
+            "published_date": "2024-09-24",
+            "updated": "2024-09-25 09:36:31",
+            "section": "Well",
+            "subsection": "",
+            "nytdsection": "well",
+            "adx_keywords": "Tea;GLP-1 RAs (Drug);Weight;Ozempic (Drug);Diabetes;Research;Diet and Nutrition;Hormones",
+            "column": null,
+            "byline": "By Dani Blum",
+            "type": "Article",
+            "title": "Is Green Tea Really ‘Nature’s Ozempic’?",
+            "abstract": "Here’s what experts said about the beverage’s link to weight loss.",
+            "des_facet": [
+                "Tea",
+                "GLP-1 RAs (Drug)",
+                "Weight",
+                "Ozempic (Drug)",
+                "Diabetes",
+                "Research",
+                "Diet and Nutrition",
+                "Hormones"
+            ],
+            "org_facet": [],
+            "per_facet": [],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "",
+                    "copyright": "Joyce Lee for The New York Times",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/18/multimedia/ASK-WELL-GREEN-TEA2-pfjt/ASK-WELL-GREEN-TEA2-pfjt-thumbStandard.jpg",
+                            "format": "Standard Thumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/18/multimedia/ASK-WELL-GREEN-TEA2-pfjt/ASK-WELL-GREEN-TEA2-pfjt-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2024/09/18/multimedia/ASK-WELL-GREEN-TEA2-pfjt/ASK-WELL-GREEN-TEA2-pfjt-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
